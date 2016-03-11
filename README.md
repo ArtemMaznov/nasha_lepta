@@ -38,7 +38,6 @@ Color scheme:
 find correct colors: http://paletton.com/#uid=45A150kjCvXg+vZhK-wnjysmhER
 override bootstrap default colors: http://paletton.com/#uid=45A150kjCvXg+vZhK-wnjysmhER
 
-
 Carousel (in gallery, and on the main screen):
 http://angular-ui.github.io/bootstrap/   carousel for ng repeaet and picasa
 
